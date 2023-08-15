@@ -32,3 +32,10 @@ commentsRouter*.go
 casdoor
 server_linux_arm64
 server_linux_amd64
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/go-casdoor/FileContentIndex/575c326b-483f-46c4-a725-5763d4b9ee1a.vsidx
+.vs/go-casdoor/FileContentIndex/read.lock
+.vs/go-casdoor/v17/.wsuo
+.vs/go-casdoor/v17/workspaceFileList.bin
